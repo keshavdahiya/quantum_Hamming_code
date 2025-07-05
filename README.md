@@ -1,7 +1,5 @@
 # quantum_Hamming_code
 
-Erdös quantum computing bootcamp mini project 3 on the self-dual [[15,7,3]] quantum Hamming code under random Pauli error.
-
 The Hamming codes are a family of $[[2^r-1, 2^r-2r-1, 3]]$ quantum error-correcting codes, for $r = 3, 4, 5, \dots$. They are self-dual perfect CSS codes.
 In this project, we fix $r=4$. So, we use $2^4-1=15$ physical qubits and $2^4-2(4)-1=7$ syndrome qubits (for error correction). 
 
